@@ -76,4 +76,7 @@ Choose the perfect edition for your TwinCAT 3 development.
 <br>
 <sub><i>✔️ = Included &nbsp;&nbsp; | &nbsp;&nbsp; ➖ = Not available</i></sub>
 
+
+<a href="https://plcsharp.lemonsqueezy.com/checkout/buy/fc6a81d8-41d0-43e6-8feb-892011009ff7?embed=1" class="lemonsqueezy-button">Buy PLC#</a><script src="https://assets.lemonsqueezy.com/lemon.js" defer></script>
+
 </div>
