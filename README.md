@@ -4,8 +4,8 @@ Tools for accelerate programming using PLCs (e.g. Beckhoff)
 
 <br>
 <br>
-  
-<a href="https://plcsharp.lemonsqueezy.com/checkout/buy/fc6a81d8-41d0-43e6-8feb-892011009ff7" target="_blank">
+
+<a href="https://plcsharp.lemonsqueezy.com/checkout/buy/369bcd95-dda8-49d9-ac09-415001cb86ef" target="_blank">
   <img src="https://img.shields.io/badge/Buy_PLC%23-Lemon_Squeezy-FFC233?style=for-the-badge&logo=lemonsqueezy&logoColor=black" alt="Buy PLC# on Lemon Squeezy">
 </a>
 
@@ -90,7 +90,7 @@ Choose the perfect edition for your TwinCAT 3 development.
 <br>
 <br>
   
-<a href="https://plcsharp.lemonsqueezy.com/checkout/buy/fc6a81d8-41d0-43e6-8feb-892011009ff7" target="_blank">
+<a href="https://plcsharp.lemonsqueezy.com/checkout/buy/369bcd95-dda8-49d9-ac09-415001cb86ef" target="_blank">
   <img src="https://img.shields.io/badge/Buy_PLC%23-Lemon_Squeezy-FFC233?style=for-the-badge&logo=lemonsqueezy&logoColor=black" alt="Buy PLC# on Lemon Squeezy">
 </a>
 
